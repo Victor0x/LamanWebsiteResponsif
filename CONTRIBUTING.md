@@ -1,5 +1,5 @@
 Tambahkan nama mu disini:
 
-*Denis <name web_project>
+1.sayaPintar navbar.html
 <br>
-*<your_name>
+
